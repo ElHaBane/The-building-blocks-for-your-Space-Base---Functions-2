@@ -1,0 +1,7 @@
+body{
+    /*Changes background to blue*/
+    background-color: rgb(143, 197, 197);
+
+    /*Changes font to Times New Roman for all body text*/
+    font-family: 'Times New Roman', Times, serif;
+}
